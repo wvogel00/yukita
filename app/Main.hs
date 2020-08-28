@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Chapter1
 
 main :: IO ()
-main = someFunc
+main = putStrLn "圏論入門 -Haskellで計算する具体例から-"
